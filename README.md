@@ -3,7 +3,7 @@
 
 **Nama:** Nurul Azizah  
 **NIM:** 2225250171  
-**Kelas:** ...
+**Kelas:** 3E
 
 ## Tujuan
 
